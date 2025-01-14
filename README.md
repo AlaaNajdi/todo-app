@@ -1,7 +1,7 @@
 # PR
-
+#
 # deployment link
-- https://alaanajdi.github.io/todo-app/
+- https://dancing-tarsier-a6198c.netlify.app/
 # Todo App
 
 This project aims to build a to do list application by applying HTML, CSS and Javascript. The application allows users to manage their tasks effectively.
